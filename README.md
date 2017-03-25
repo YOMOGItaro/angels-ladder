@@ -50,7 +50,6 @@ github = "https://github.com/foobar"
 profile = "/images/profile.png"
 copyright = "Written by Asuka Suzuki"
 analytics = "UA-XXXXXXXX-X"
-document_root = "/path/to/blog"
 ```
 
 Details of each parameter are as follows.
